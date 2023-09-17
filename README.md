@@ -6,9 +6,9 @@
 # 1. https://dev.twitch.tv/console/apps 跟twitch申請client_id、client_secret<br />
 
 # 2.
-將<br />
+# 將<br />
     TWITCH_API_CLIENT_ID = "xxxxxxxxxxxxxxxxx"<br />
     TWITCH_API_CLIENT_SECRET = "oooooooooooooooooooooo"<br />
-換成跟twitch申請client_id、client_secret<br />
+# 換成跟twitch申請client_id、client_secret<br />
 
 
