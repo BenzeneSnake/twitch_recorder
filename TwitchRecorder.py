@@ -10,8 +10,8 @@ from typing import List, TypedDict, Union
 
 import requests
 
-TWITCH_API_CLIENT_ID = "tw2d4okdkyap0m4b734x60inflz2or"
-TWITCH_API_CLIENT_SECRET = "jmhhium5jqjuqph8syoixzxcrk35cq"
+TWITCH_API_CLIENT_ID = "xxxxxxxxxxxxxxxxx"
+TWITCH_API_CLIENT_SECRET = "oooooooooooooooooooooo"
 FILE_NAME_FORMAT = "[{user_login}]{stream_started}_{escaped_title}.ts"
 TIME_FORMAT = "%y%m%d_%H%M%S"
 
