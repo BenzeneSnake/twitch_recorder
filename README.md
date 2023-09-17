@@ -1,5 +1,5 @@
 # twitch_recorder
-Reference:https://gist.github.com/krepe90/22a0a6159b024ccf8f67ee034f94c1cc
+Reference:https://gist.github.com/krepe90/22a0a6159b024ccf8f67ee034f94c1cc <br />
 ※需import requests<br />
   需import Streamlink<br />
   
